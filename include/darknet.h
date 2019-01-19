@@ -802,8 +802,4 @@ float rand_uniform(float min, float max);
 #ifdef __cplusplus
 }
 #endif
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/master
 #endif
